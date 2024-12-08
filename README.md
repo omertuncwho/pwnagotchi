@@ -1,5 +1,4 @@
 # Pwnagotchi
-
 <p align="center">
     <a href="https://github.com/aluminum-ice/pwnagotchi/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/aluminum-ice/pwnagotchi.svg?style=flat-square"></a>
     <a href="https://github.com/evilsocket/pwnagotchi/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
